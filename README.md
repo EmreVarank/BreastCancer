@@ -10,7 +10,7 @@ This project aims to classify breast cancer tumors as malignant or benign using 
 
 **databreast.csv:** The dataset used for training and testing the models.
 
-**index.pdf:** A presentation or report summarizing the project findings.
+**index.pdf:** This project is based on the methodology and requirements outlined in this IEEE paper
 
 **Technologies Used**
 -
